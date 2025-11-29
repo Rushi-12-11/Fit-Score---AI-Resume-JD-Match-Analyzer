@@ -67,7 +67,7 @@ Project/
 
 ## Screenshots 
 
-```md
+md
 ### 🔹 HomePage
 ![Home Page](output/01_Home.png)
 

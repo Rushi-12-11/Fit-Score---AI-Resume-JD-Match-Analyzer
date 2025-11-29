@@ -1,5 +1,5 @@
 # FitScore -  AI Resume–JD Match Analyzer
-
+## Live Demo: https://fitscore-ai.streamlit.app/
 FitScore AI is an AI-powered Applicant Screening System that evaluates how well a resume matches a job description using Machine Learning, NLP, and semantic similarity models.
 The system identifies matched & missing skills, computes a Fit Score (0–100), evaluates resume formatting, and can also rank multiple candidates for recruiters.
 

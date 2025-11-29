@@ -69,10 +69,10 @@ Project/
 
 ```md
 ### 🔹 HomePage
-![Home Page](output/Screenshot%202025-11-29%20112914.png)
+![Home Page](output/01_Home.png)
 
 ### 🔹 Fit Score Report
-![Report](output/Screenshot%202025-11-29%20112948.png)
+![Report](output/02_Report.png)
 
 ### 🔹 Multi-Resume Leaderboard (Recruiter Mode)
-![Ranking](output/Screenshot%202025-11-29%20113026.png)
+![Ranking](output/03_Leaderboard.png)
